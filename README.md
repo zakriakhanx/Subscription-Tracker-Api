@@ -79,7 +79,7 @@ zakriakhanx-subscription-tracker-api/
 ### **1. Clone the repository:**  
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/zakriakhanx/Subscription-Tracker-Api
 cd zakriakhanx-subscription-tracker-api
 ```
 
